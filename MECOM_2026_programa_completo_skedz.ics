@@ -1,0 +1,3196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MECOM 2026//Programa combinado local Indico 124//ES
+BEGIN:VEVENT
+SUMMARY:S01-ID-8734-Aplicación de Modelos de Aprendizaje Supervisado para
+  la Deteccion y Localización de Daños en Estructuras de Material Compues
+ to
+DTSTART:20261110T172000Z
+DTEND:20261110T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14179@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14179/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14179/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S01-ID-9001-Análisis de las Características de Aislamiento Acús
+ tico de Tabiques Constituidos por Placas de Cartón Yeso mas Placas OSB co
+ n Relleno de Poliuretano Expandido
+DTSTART:20261110T174000Z
+DTEND:20261110T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14185@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14185/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14185/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S01-ID-9039-Modelo Nodal Termo-Vibratorio Provisional de un CubeSa
+ t 1U
+DTSTART:20261110T180000Z
+DTEND:20261110T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14191@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14191/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14191/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8803-Enfoque de Inferencia Probabilística para Identificac
+ ión de Parámetros de Estructuras Esbeltas Construidas Aditivamente con P
+ olímeros Técnicos
+DTSTART:20261110T170000Z
+DTEND:20261110T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14176@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14176/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14176/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8895-Sobrecalentamiento del Material de un Tubo de Fuego po
+ r Encima de la Temperatura de Diseño y su Efecto en el Comportamiento Ter
+ momecánico
+DTSTART:20261110T172000Z
+DTEND:20261110T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14180@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14180/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14180/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8814-Diseño\, Fabricación y Validación de Aisladores Sí
+ smicos Elastómericos para Carga Axial Controlada
+DTSTART:20261110T174000Z
+DTEND:20261110T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14186@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14186/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14186/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8798-Carga Crítica de Pandeo de Perfiles en Silos Utilizan
+ do GBT y MEF: Interacción Parante-Chapa Corrugada.
+DTSTART:20261110T180000Z
+DTEND:20261110T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14192@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14192/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14192/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S07-ID-8842-Diseño de Mecanismos Biestables para Celdas Táctiles
+  Braille
+DTSTART:20261110T170000Z
+DTEND:20261110T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14177@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14177/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14177/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S07-ID-8722-Análisis de Impactos en un Rodamiento de Bolas Tridim
+ ensional con Huelgo mediante Aproximación Dinámica no Suave.
+DTSTART:20261110T172000Z
+DTEND:20261110T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14182@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14182/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14182/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S07-ID-8866-Modelo Numérico de una Junta Esférica Lubricada Util
+ izada en Sistemas Dinámicos Multicuerpos
+DTSTART:20261110T174000Z
+DTEND:20261110T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14188@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14188/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14188/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8840-Control Térmico de Inestabilidades Hidrodinámicas en
+  un Sistema Advectivo-Difusivo
+DTSTART:20261110T170000Z
+DTEND:20261110T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14178@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14178/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14178/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8706-Estimación Simultánea del Coeficiente de Convección
+  y del Amortiguamiento Térmico en Transferencia de Calor Bidimensional me
+ diante un Enfoque Numérico-Experimental
+DTSTART:20261110T172000Z
+DTEND:20261110T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14184@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14184/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14184/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8832-Resolución de Problemas Directos e Inversos en Solidi
+ ficación Unidimensional mediante Redes Neuronales Informadas por Física 
+ con Formulación Variacional
+DTSTART:20261110T174000Z
+DTEND:20261110T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14190@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14190/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14190/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8981-Parametric CFD Study of Secondary Air Injection Effect
+  in Rocket Stoves Performance
+DTSTART:20261110T172000Z
+DTEND:20261110T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14181@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14181/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14181/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8756-Implementación de un Solver de Volúmenes Finitos par
+ a Propagación de Ondas de Presión en Medios con Burbujas
+DTSTART:20261110T174000Z
+DTEND:20261110T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14187@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14187/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14187/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8682-Caracterización Numérica de Flujos Bifásicos en Uni
+ ón Tee. CFD Multifásico con InterFOAM OpenFOAM
+DTSTART:20261110T180000Z
+DTEND:20261110T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14193@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14193/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14193/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S17-ID-8737-Análisis de la Relación entre la Energía de Deforma
+ ción de una Prótesis de Amputados Transtibiales y su Geometría
+DTSTART:20261110T172000Z
+DTEND:20261110T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14183@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14183/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14183/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S17-ID-8936-Biomechanics of Cerebral Arteries: Study of the Mechan
+ ical Degradation of the Wall Due to the Shear Stress of Blood Flow
+DTSTART:20261110T174000Z
+DTEND:20261110T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14189@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14189/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14189/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-9030-Optimización en Planta del Sistema de Aislamiento Sí
+ smico en Edificios con Irregularidad Torsional Extrema mediante Programaci
+ ón Lineal
+DTSTART:20261110T182000Z
+DTEND:20261110T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14198@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14198/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14198/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S07-ID-8953-Revisión de Metodologías de Simulación de Mínimo T
+ iempo de Vuelta para Vehículos de Competición
+DTSTART:20261110T182000Z
+DTEND:20261110T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14200@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14200/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14200/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8821-Pérdida de Carga y Transferencia de Calor en un Canal
+  Refrigerante de Elementos Combustibles de Central Nuclear
+DTSTART:20261110T180000Z
+DTEND:20261110T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14196@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14196/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14196/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8870-Comparación entre Enfoques EnergyPlus–OpenFOAM para
+  la Simulación Energética de Edificios
+DTSTART:20261110T182000Z
+DTEND:20261110T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14202@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14202/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14202/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8897-El Formato de Datos Jerárquico HDF5 en el Método de 
+ Elementos de Borde Aplicado a Flujos Reptantes
+DTSTART:20261110T182000Z
+DTEND:20261110T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14199@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14199/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14199/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S17-ID-8927-Modelación Constitutiva Multiestructural de la Respue
+ sta Pasivo-Activa en Arterias Carótidas de Rata
+DTSTART:20261110T180000Z
+DTEND:20261110T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14195@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14195/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14195/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S17-ID-8847-Modelamiento Estructural de Arterias Presurizadas con 
+ Familias de Fibras Simétricas y Asimétricas
+DTSTART:20261110T182000Z
+DTEND:20261110T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14201@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14201/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14201/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S01-ID-8727-Análisis de la Respuesta Direccional de un Arreglo de
+  Dos Micrófonos para Estimación de Ruido Industrial
+DTSTART:20261110T193000Z
+DTEND:20261110T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14208@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14208/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14208/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S01-ID-8996-Modelo Sintético Inicial de Gemelo Digital para Scaff
+ olds Inteligentes Basado en Resonancia Electromagnética e Inteligencia Ar
+ tificial
+DTSTART:20261110T195000Z
+DTEND:20261110T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14213@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14213/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14213/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S01-ID-8745-Evaluación Metodológica de un Pipeline de Clasificac
+ ión para Bombas Triplex con Datos Sintéticos
+DTSTART:20261110T201000Z
+DTEND:20261110T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14219@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14219/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14219/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8797-Carga Crítica de Pandeo en Perfiles de Sección Delga
+ da y Cerrada mediante GBT y el Método de Elementos Finitos
+DTSTART:20261110T191000Z
+DTEND:20261110T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14204@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14204/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14204/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8838-Modelación Numerica de Cubierta Tensegrítica para Ce
+ ntro Comercial de Grandes Dimensiones
+DTSTART:20261110T193000Z
+DTEND:20261110T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14209@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14209/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14209/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-9042-Nonlinear Dynamic Response of Guyed Wind Turbine Tower
+ s: Influence of the Rotor-Blade Load Model and Cable Pretension
+DTSTART:20261110T195000Z
+DTEND:20261110T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14214@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14214/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14214/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8735-Vibraciones Libres de una Placa Rectangular con una Vi
+ ga Intermedia Paralela a Uno de sus Lados
+DTSTART:20261110T201000Z
+DTEND:20261110T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14220@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14220/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14220/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8711-Simulación Multiescala de Parques Eólicos: Análisis
+  de Interferencia entre Parques
+DTSTART:20261110T191000Z
+DTEND:20261110T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14205@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14205/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14205/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8751-Validación de un Modelo de Detalle para el Flujo de V
+ ientos en una Zona Urbana
+DTSTART:20261110T193000Z
+DTEND:20261110T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14210@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14210/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14210/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8978-Influencia de los Modelos de Turbulencia k-epsilon y k
+ -omega SST\, en la Predicción de Esfuerzos Cortantes Detrás de Cortinas 
+ Forestales
+DTSTART:20261110T195000Z
+DTEND:20261110T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14215@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14215/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14215/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8944-Estudio Experimental y Numérico de un Cuerpo de Ahmed
+  a Escala Sometido a Oscilaciones Verticales
+DTSTART:20261110T201000Z
+DTEND:20261110T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14221@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14221/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14221/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S07-ID-8948-Análisis Comparativo de Modelos de Orden Reducido par
+ a el Estudio Dinámico de Turbinas Eólicas
+DTSTART:20261110T191000Z
+DTEND:20261110T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14206@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14206/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14206/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S07-ID-8877-Álgebras de Clifford Aplicadas a la Cinemática de Me
+ canismos
+DTSTART:20261110T193000Z
+DTEND:20261110T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14211@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14211/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14211/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8707-Condición Necesaria y Suficiente para que un Material
+  PCM Cambie de Fase Estando en Contacto con un Material Sólido
+DTSTART:20261110T193000Z
+DTEND:20261110T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14212@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14212/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14212/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8717-Proceso de Regularización para la Estimación de la F
+ uente Térmica en Transferencia de Calor mediante Diferentes Estrategias
+DTSTART:20261110T195000Z
+DTEND:20261110T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14218@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14218/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14218/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S08-ID-8846-Yield Stress of Hydroxyapatite/Polylactic Acid Composi
+ tes: a Computational Micromechanics Study
+DTSTART:20261110T195000Z
+DTEND:20261110T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14216@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14216/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14216/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S17-ID-8963-Multiscale Modeling of Cell-Matrix Mechanical Interact
+ ion in the Arterial Wall Using Embedded Elements
+DTSTART:20261110T195000Z
+DTEND:20261110T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14217@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14217/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14217/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8949-Ecuación para la Determinación del Periodo Fundament
+ al de Mástiles Arriostrados – Estado del Arte
+DTSTART:20261110T203000Z
+DTEND:20261110T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14226@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14226/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14226/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8907-CFD Analysis of the Wind and Turbulence around Vertipo
+ rt Placement
+DTSTART:20261110T203000Z
+DTEND:20261110T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14227@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14227/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14227/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8946-Modelado y Análisis Espectral de un Problema Tridimen
+ sional de Transferencia de Calor en Materiales Bicapa
+DTSTART:20261110T201000Z
+DTEND:20261110T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14224@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14224/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14224/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8909-Biphasic Thermal Diode: Modeling and Characterization
+DTSTART:20261110T203000Z
+DTEND:20261110T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14230@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14230/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14230/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S08-ID-9025-Sequential Multiscale Modeling of Texture Gradients in
+  Cold Drawn Tempered-Martensitic Medium-Carbon Steels
+DTSTART:20261110T203000Z
+DTEND:20261110T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14228@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14228/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14228/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S17-ID-8868-Modulation of Cardiomyocyte Action Potential Dynamics 
+ by Endothelial Cell Coupling: An in Silico Study
+DTSTART:20261110T201000Z
+DTEND:20261110T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14223@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14223/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14223/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S17-ID-8789-Evaluation of Individualized Biomechanical Computation
+ al Models for Surgical Interventions with Intramedullary Nails in Femoral 
+ Diaphyseal Fractures
+DTSTART:20261110T203000Z
+DTEND:20261110T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14229@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14229/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14229/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S01-ID-8733-Análisis Computacional y Experimental de Puentes de V
+ iolonchelo con Excitación Forzada
+DTSTART:20261111T133000Z
+DTEND:20261111T135000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14231@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14231/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14231/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8782-Estudio de Fisuras Longitudinales en Vigas Delaminadas
+  Utilizando Masas Puntualesfisuras longitudinales en vigas delaminadas uti
+ lizando masas puntuales
+DTSTART:20261111T133000Z
+DTEND:20261111T135000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14232@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14232/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14232/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8823-Experimental Validation of an OpenFOAM-Based Study on 
+ Heave Exciting Forces
+DTSTART:20261111T133000Z
+DTEND:20261111T135000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14233@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14233/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14233/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8815-Diseño\, Fabricación y Caracterización de un Aislad
+ or Sísmico Friccional con Deslizador Compuesto
+DTSTART:20261111T141000Z
+DTEND:20261111T143000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14244@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14244/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14244/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8911-Análisis del Impacto del Refinamiento Adaptativo de M
+ alla en las Estadísticas de Flujos Turbulentos
+DTSTART:20261111T135000Z
+DTEND:20261111T141000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14239@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14239/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14239/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-9000-Simulación Numérica Unidimensional de Detonaciones I
+ deales en Fase Gaseosa Mediante el Esquema de Godunov con Aproximación Li
+ neal de Roe
+DTSTART:20261111T141000Z
+DTEND:20261111T143000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14245@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14245/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14245/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S08-ID-8881-Nonlinear Poromechanical Analysis of Saturated Cementi
+ tious Composites
+DTSTART:20261111T133000Z
+DTEND:20261111T135000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14234@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14234/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14234/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S08-ID-8699-Formulacion del Sistema de Biot-Cahn Hilliard para Mat
+ eriales Microestructurados
+DTSTART:20261111T135000Z
+DTEND:20261111T141000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14240@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14240/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14240/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S08-ID-8961-Modelo Quimio-Elástico Intermitente de Aifantis y de 
+ Aifantis-Walgraef
+DTSTART:20261111T141000Z
+DTEND:20261111T143000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14246@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14246/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14246/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S17-ID-8845-Estabilidad de la Dinámica Cardíaca. Relevancia del 
+ Análisis Biomédico
+DTSTART:20261111T133000Z
+DTEND:20261111T135000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14235@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14235/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14235/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8684-Análisis y Simulación de un Problema de Stefan a Tre
+ s Fases con Generación Interna de Calor
+DTSTART:20261111T133000Z
+DTEND:20261111T135000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14236@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14236/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14236/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8757-Análisis de Estabilidad de un Problema Inverso de Con
+ ducción de Calor con el método de reconstrucción de temperaturas
+DTSTART:20261111T135000Z
+DTEND:20261111T141000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14242@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14242/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14242/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8777-Influencia del Calor Axial en la Determinación del Fl
+ ujo de Calor en una Probeta Templada por Inmersión con Termocupla Centrad
+ a
+DTSTART:20261111T141000Z
+DTEND:20261111T143000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14248@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14248/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14248/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S11-ID-8859-Optimization of Multilayer Cementitious Envelopes with
+  PCM and Air Voids for Nearly Zero-Energy Buildings across Different Clima
+ tes
+DTSTART:20261111T135000Z
+DTEND:20261111T141000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14237@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14237/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14237/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S11-ID-8903-Optimización Continua de Meta-Envolventes Edilicias c
+ on PCM: Enfoque de Regularización para el Co-Diseño Térmico Estival
+DTSTART:20261111T141000Z
+DTEND:20261111T143000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14243@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14243/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14243/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8725-Flujo Alrededor de un Cilindro Elíptico a Bajos Núme
+ ros de Reynolds: Comparación entre FEM y PFEM
+DTSTART:20261111T141000Z
+DTEND:20261111T143000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14247@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14247/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14247/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S11-ID-8805-Modelo Continuo Iterativo para Asignación Dinámica d
+ e Tráfico Urbano bajo Condiciones de Sobrecongestión
+DTSTART:20261111T170000Z
+DTEND:20261111T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14249@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14249/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14249/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S11-ID-8689-Data-Driven Seismic Inversion with Spatially Adaptive 
+ Regularization via Proximal Optimization
+DTSTART:20261111T172000Z
+DTEND:20261111T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14255@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14255/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14255/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8980-Respuesta Experimental y Numérica de Mampostería Sus
+ tentable
+DTSTART:20261111T170000Z
+DTEND:20261111T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14250@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14250/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14250/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8712-Comportamiento de Tanques Cilíndricos con Imperfeccio
+ nes Longitudinales Sometidos a Cargas de Viento
+DTSTART:20261111T172000Z
+DTEND:20261111T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14256@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14256/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14256/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8772-Análise Dinâmica de um Tanque Bidimensional com Flui
+ do que Experimenta Sloshing Livre - Parte I: Formulação
+DTSTART:20261111T170000Z
+DTEND:20261111T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14251@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14251/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14251/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-9050-Análise Dinâmica de um Tanque Bidimensional com Flui
+ do que Experimenta Sloshing Livre - Parte II: Verifição
+DTSTART:20261111T172000Z
+DTEND:20261111T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14257@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14257/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14257/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S06-ID-8969-Análisis Numérico de la Respuesta Mecánica en Tracc
+ ión de Probetas Rectangulares de HfNbTiZr mediante Elementos Finitos
+DTSTART:20261111T170000Z
+DTEND:20261111T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14252@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14252/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14252/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S06-ID-8744-Evaluación Numérica de la Respuesta Material y Estru
+ ctural del HRFA bajo Solicitaciones de Corte
+DTSTART:20261111T172000Z
+DTEND:20261111T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14258@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14258/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14258/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-9006-Simulaciones de Frenado Aerodinámico en la Turbina Si
+ emens SWT-93 2.3 MW
+DTSTART:20261111T170000Z
+DTEND:20261111T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14253@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14253/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14253/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8879-Swirl Flow Assisted by Slip/no-Slip Pattern to Enhance
+  the Thermal Performance of a Microchannel Heat Sink
+DTSTART:20261111T170000Z
+DTEND:20261111T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14254@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14254/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14254/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S11-ID-8941-Diseño Óptimo de Infraestructura para Evacuación Pe
+ atonal
+DTSTART:20261111T180000Z
+DTEND:20261111T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14267@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14267/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14267/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8849-Estudio Teórico-Experimental del Comportamiento Elast
+ oplástico a Flexión de Vigas de Aluminio de Sección Especial
+DTSTART:20261111T174000Z
+DTEND:20261111T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14262@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14262/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14262/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8882-Limitations of Extrapolation Methods for Marine Propel
+ lers: Pressure Effects in Scaling and in the Transitional Regime
+DTSTART:20261111T174000Z
+DTEND:20261111T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14263@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14263/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14263/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8924-Calibración de Parámetros del Modelo K-Omega SST med
+ iante Ensemble Kalman Filter a Partir de Datos Experimentales
+DTSTART:20261111T180000Z
+DTEND:20261111T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14269@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14269/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14269/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S06-ID-8691-Fisuración Termo-Químico-Mecánica del Hormigón a E
+ dad Temprana con un Modelo Phase-Field AT1
+DTSTART:20261111T174000Z
+DTEND:20261111T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14264@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14264/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14264/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S06-ID-8914-Influence of Concrete Quality on Failure Characteristi
+ cs
+DTSTART:20261111T180000Z
+DTEND:20261111T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14270@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14270/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14270/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-9023-Bayesian Optimization Aplicada a Cavitación Láser ba
+ jo Excitación Acústica para la Identificación de Eventos Extremos de Lu
+ miniscencia
+DTSTART:20261111T180000Z
+DTEND:20261111T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14271@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14271/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14271/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8822-Thermochemical Modeling of Iron Oxide Reduction Proces
+ ses in Fluidized Bed Reactors
+DTSTART:20261111T172000Z
+DTEND:20261111T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14260@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14260/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14260/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-9031-Acoplamiento Numérico entre Radiación Colimada-Difus
+ a y Transporte Reactivo en un Reactor Foto-Fenton Solar
+DTSTART:20261111T174000Z
+DTEND:20261111T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14266@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14266/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14266/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8885-Convección de Rayleigh Bénard en Cavidades: Análisi
+ s Espectral de la Transferencia de Calor
+DTSTART:20261111T180000Z
+DTEND:20261111T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14272@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14272/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14272/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S13-ID-8984-Estudio de la Transferencia de Calor y Efecto de la Ra
+ diación Exterior en una Vivienda mediante Mecánica de Fluidos Computacio
+ nal
+DTSTART:20261111T180000Z
+DTEND:20261111T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14268@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14268/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14268/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S06-ID-8864-Simulation of SFRC Subjected to High Preheating Temper
+ ature
+DTSTART:20261111T182000Z
+DTEND:20261111T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14276@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14276/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14276/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8761-Estrategias para la Interacción Fluido-Estructura en 
+ el Análisis de Estabilidad Lateral de Vehículos Articulados
+DTSTART:20261111T182000Z
+DTEND:20261111T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14277@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14277/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14277/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8894-Simulación Transitoria de un Ensayo de Conductividad 
+ Térmica en Adobe a Alta Temperatura
+DTSTART:20261111T182000Z
+DTEND:20261111T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14278@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14278/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14278/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S13-ID-9052-Diseño y Optimización mediante CFD de un Tanque de S
+ edimentación para Tratamiento de Aguas de Producción
+DTSTART:20261111T182000Z
+DTEND:20261111T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14274@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14274/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14274/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8716-Evaluación del Desempeño Sísmico de Edificios Chile
+ nos Estructurados con Marcos de Acero Arriostrados con Riostras Convencion
+ ales y Dispositivos de Disipación Pasiva
+DTSTART:20261111T182000Z
+DTEND:20261111T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14273@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14273/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14273/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S13-ID-8743-Modelado y Simulación de la Letalidad Térmica en Ali
+ mentos Enlatados mediante Integración Numérica y Aproximación Funcional
+DTSTART:20261111T191000Z
+DTEND:20261111T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14279@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14279/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14279/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8817-Estudio del Comportamiento de una Válvula Howell Bung
+ er mediante Métodos Numéricos
+DTSTART:20261111T191000Z
+DTEND:20261111T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14280@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14280/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14280/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S06-ID-8933-Enhanced Mesoscale Representation of Recycled Aggregat
+ e Concrete
+DTSTART:20261111T191000Z
+DTEND:20261111T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14281@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14281/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14281/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8934-Simulación Numérica Directa de la Transición Lamina
+ r-Turbulenta en Flujos de Convección Mixta
+DTSTART:20261111T193000Z
+DTEND:20261111T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14285@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14285/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14285/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S06-ID-8795-Método del Punto Material Acoplado con Elementos Fini
+ tos Aplicado al Análisis de Estados Planos con Grandes Deformaciones
+DTSTART:20261111T193000Z
+DTEND:20261111T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14286@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14286/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14286/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8749-Aplicación de Algoritmos Genéticos para la Optimizac
+ ión de Parámetros de un Modelo de Propulsor de Plasma Pulsante
+DTSTART:20261111T191000Z
+DTEND:20261111T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14282@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14282/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14282/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8872-Finite Element Modelling of Air-Permeability Test unde
+ r Transient Gas Flow Conditions in Concrete Media
+DTSTART:20261111T191000Z
+DTEND:20261111T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14283@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14283/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14283/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8754-Respuesta de una Plataforma de Hormigón Armado Frente
+  a Cargas de Impacto
+DTSTART:20261111T195000Z
+DTEND:20261111T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14289@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14289/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14289/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S06-ID-8938-Un Elemento Finito Triangular Superconvergente con Def
+ ormaciones Mejoradas para Estados Planos
+DTSTART:20261111T195000Z
+DTEND:20261111T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14292@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14292/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14292/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8808-Estudio CFD de la Dispersión de Contaminantes Reactiv
+ os en Callejones Urbanos Asimétricos
+DTSTART:20261111T195000Z
+DTEND:20261111T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14293@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14293/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14293/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-9003-Simulación de Ondas de Choque con Volúmenes Finitos:
+  Una Propuesta de Aprendizaje en Ingeniería Orientada a la Formación de 
+ Grado
+DTSTART:20261111T201000Z
+DTEND:20261111T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14296@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14296/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14296/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8883-Impact of Surface Nanopatterns and Coatings on Heat Tr
+ ansport in Nanochambers.
+DTSTART:20261111T201000Z
+DTEND:20261111T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14300@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14300/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14300/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8729-Identificación de Parámetros en Modelos Explícitos 
+ de Mampostería Sometidos a Explosiones
+DTSTART:20261111T203000Z
+DTEND:20261111T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14301@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14301/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14301/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S06-ID-9026-Multi-Objective Mechanical Property Prediction in Stru
+ ctural Steels: a Comparative Study of Classical Inference\, Ensemble Learn
+ ing\, and Deep Learning using Small Dataset
+DTSTART:20261111T203000Z
+DTEND:20261111T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14304@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14304/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14304/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-9051-Simulación Numérica de Cambio de Fase con Convecció
+ n Natural en Medios Porosos
+DTSTART:20261111T203000Z
+DTEND:20261111T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14306@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14306/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14306/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-8728-Resolución Numérica del Laplaciano Fraccionario Usan
+ do Métodos sin Malla en el Lenguaje Julia
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14307@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14307/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14307/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-8812-Caracterización Experimental y CFD de Paneles Evapora
+ tivos de Celulosa
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14309@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14309/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14309/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-8852-Caracterización Radiativa de Colectores para Reactore
+ s Foto-Fenton
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14310@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14310/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14310/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-8853-Análisis del Fenómeno de Ballooning en Tubos de Pres
+ ión de Reactores Nucleares Tipo CANDU
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14311@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14311/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14311/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-8892-Análisis Dinámico y Control de Vibraciones en una Vi
+ ga Rígida mediante el Uso de un Amortiguador de Masa Sintonizado (TMD)
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14312@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14312/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14312/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-8899-Análisis de Performance de Inyectores Impinging
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14313@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14313/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14313/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-8904-Modelado Numérico y Caracterización Experimental de 
+ una Válvula de Control Hidráulica
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14314@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14314/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14314/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-8987-Estudio Numérico de Modelo de Amortiguador Hidráulic
+ o para Bombas Peristálticas
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14315@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14315/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14315/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-8988-Algoritmo de Preprocesamiento para el Estudio Numéric
+ o de Electrodos Porosos Perforados en Baterías de Vanadio
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14316@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14316/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14316/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-8989-Estudio Geométrico y Operativo de Celda de Combustibl
+ e Tipo PEM\, Utilizando Solver de Código Abierto OpenFuelCell2
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14317@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14317/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14317/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-9014-Simulación Numérica del Efecto Shelter bajo Viento M
+ oderado: Estudio Comparativo entre K-Epsilon y K-Omega en OpenFOAM
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14319@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14319/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14319/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-9034-Optimización Topológica Multimaterial de Arreglos Tr
+ idimensionales de Placas Planas
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14320@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14320/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14320/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-9035-Diseño Óptimo de Aisladores de Vibración Multiflexi
+ bles mediante Optimización Topológica
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14321@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14321/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14321/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S06-ID-8848-Aplicación de la Mecánica de Daño Continuo al Model
+ ado Constitutivo del Mampuesto de Adobe
+DTSTART:20261112T133000Z
+DTEND:20261112T135000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14325@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14325/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14325/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8709-Understanding flow-induced wall remodeling in brain an
+ eurysms
+DTSTART:20261112T133000Z
+DTEND:20261112T135000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14326@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14326/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14326/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S15-ID-8985-Determinación Numérica del Régimen de Mareas y Olea
+ je en el Estuario de Bahía Blanca
+DTSTART:20261112T133000Z
+DTEND:20261112T135000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14327@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14327/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14327/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8801-Dinámica de Metamateriales Viscoelásticos Localmente
+  Resonantes: Análisis de Bandas de Atenuación en Estructuras Finitas
+DTSTART:20261112T135000Z
+DTEND:20261112T141000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14328@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14328/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14328/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S15-ID-8816-Caracterización Hidrodinámica de un Sedimentador de 
+ Placas Inclinadas mediante Modelos CFD 2D/3D y Ensayos con Trazadores
+DTSTART:20261112T135000Z
+DTEND:20261112T141000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14333@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14333/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14333/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S12-ID-8896-RELAP5 Modeling of Siphon-Driven Pool Drainage for Res
+ earch Reactor Safety Analysis
+DTSTART:20261112T135000Z
+DTEND:20261112T141000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14331@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14331/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14331/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-9018-Simulación Dinámica de Estructuras a Partir de Presi
+ ones Fluctuantes Obtenidas en Túnel de Viento
+DTSTART:20261112T141000Z
+DTEND:20261112T143000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14334@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14334/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14334/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S12-ID-8900-De Válvulas Clapetas a Diodos Fluídicos: Análisis P
+ aramétricos de Evento LOCA en un Reactor de Investigacion
+DTSTART:20261112T141000Z
+DTEND:20261112T143000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14337@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14337/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14337/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S15-ID-8878-Caracterización Hidráulica de Cámaras de Contacto d
+ e EDARS mediante Mediciones de Campo y Simulación CFD
+DTSTART:20261112T141000Z
+DTEND:20261112T143000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14339@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14339/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14339/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8713-Análisis Numérico de la Capacidad de Colapso de Edif
+ icios con Disipadores Viscosos bajo Sismos de Subducción
+DTSTART:20261112T172000Z
+DTEND:20261112T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14346@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14346/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14346/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8726-Análisis Numérico sobre la Efectividad de un TNES en
+  el Control de la Respuesta Sísmica de una Estructura Aporticada
+DTSTART:20261112T174000Z
+DTEND:20261112T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14352@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14352/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14352/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8738-Gemelo Digital con Parámetros Aleatorios: Optimizaci
+ ón a Partir de Frecuencias y Formas Modales Identificadas de Mediciones E
+ xperimentales
+DTSTART:20261112T180000Z
+DTEND:20261112T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14358@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14358/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14358/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-8837-Siembra de Matemática Aplicada y Cosecha en Materias 
+ de Tecnología Aplicada
+DTSTART:20261112T170000Z
+DTEND:20261112T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14341@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14341/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14341/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-8910-Enseñanza de Métodos Numéricos mediante la Comparac
+ ión entre Resultados Analíticos\, Experimentales y Computacionales
+DTSTART:20261112T172000Z
+DTEND:20261112T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14347@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14347/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14347/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-8994-Treinta Años de Trabajos en Mecánica Computacional e
+ n el Ámbito de la Universidad Nacional de Cuyo
+DTSTART:20261112T174000Z
+DTEND:20261112T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14353@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14353/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14353/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-9046-Las Ecuaciones Diferenciales en el Laboratorio de Din
+ ámica Estructural
+DTSTART:20261112T180000Z
+DTEND:20261112T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14359@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14359/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14359/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8918-Sobre la Estabilidad de Modelos Reológicos Granulares
+  Dependientes de la Presión para el Algoritmo SIMPLE
+DTSTART:20261112T170000Z
+DTEND:20261112T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14342@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14342/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14342/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8764-A Modified Low-Reynolds k-epsilon Model with SST-Inspi
+ red Limiting for Transitional and Separated Flows
+DTSTART:20261112T172000Z
+DTEND:20261112T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14348@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14348/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14348/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8945-Evaluación de una Estrategia Robusta de Malla Dinámi
+ ca y Remapeo para la Simulación CFD de un Motor Óptico con Geometría Co
+ mpleta de Puertos
+DTSTART:20261112T174000Z
+DTEND:20261112T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14354@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14354/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14354/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S12-ID-8690-Avances en el Modelado bajo Irradiación de la Interac
+ ción de Separadores Combustibles Usando Rate Theory
+DTSTART:20261112T170000Z
+DTEND:20261112T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14343@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14343/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14343/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S12-ID-8760-Desarrollo de un Modelo del Reactor de la Central Nucl
+ ear Atucha II en TRACE para el Análisis Hidráulico de Transitorios y Acc
+ identes
+DTSTART:20261112T172000Z
+DTEND:20261112T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14349@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14349/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14349/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S12-ID-9009-Evaluación de Indicaciones en Tubos de Presión de la
+  Central Nuclear de Embalse
+DTSTART:20261112T174000Z
+DTEND:20261112T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14355@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14355/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14355/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S12-ID-9013-Implementación Computacional de un Modelo 1D de Orden
+  Superior para Canales Combustibles de CANDU
+DTSTART:20261112T180000Z
+DTEND:20261112T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14360@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14360/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14360/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8884-Simulación CFD de la Dispersión de Contaminantes Gas
+ eosos y Particulados en Geometrías Urbanas
+DTSTART:20261112T170000Z
+DTEND:20261112T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14344@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14344/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14344/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8721-Computational Mesh Dynamics Aspects for Fluid Structur
+ e Interaction in Articulated High-Sided Vehicles
+DTSTART:20261112T172000Z
+DTEND:20261112T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14350@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14350/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14350/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8793-Estudio de Olas Rompientes para Interacción con Estru
+ cturas Offshore
+DTSTART:20261112T174000Z
+DTEND:20261112T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14356@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14356/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14356/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8683-Recolección de Energía sobre las Palas de un Aerogen
+ erador: Identificación de la Excitación y Comparación de Configuracione
+ s Piezoeléctricas
+DTSTART:20261112T180000Z
+DTEND:20261112T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14361@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14361/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14361/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S15-ID-8763-Simulación Numérica en GPU de la Evolución de la Co
+ ncentración de Sedimentos en Suspensión en 3D
+DTSTART:20261112T170000Z
+DTEND:20261112T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14345@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14345/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14345/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S15-ID-8769-Uso de Medios Porosos para la Representación Hidrodin
+ ámica de Rejas en Modelos CFD
+DTSTART:20261112T172000Z
+DTEND:20261112T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14351@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14351/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14351/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S15-ID-8807-Expansión del Delta Fluvio-Lacustre de la Laguna Setu
+ bal: Modelación Fluviomorfológica
+DTSTART:20261112T180000Z
+DTEND:20261112T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14362@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14362/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14362/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S12-ID-9010-Análisis de un Anillo Espaciador de un Canal Combusti
+ ble de Reactor Tipo CANDU
+DTSTART:20261112T182000Z
+DTEND:20261112T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14365@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14365/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14365/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8704-Desempeño de Sistemas de Gestión Térmica Basados en
+  PCM mediante Modelado Multifísico de Baterías de Ion-Litio
+DTSTART:20261112T182000Z
+DTEND:20261112T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14366@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14366/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14366/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S15-ID-8783-Simulación Numérica de Erosión y Transporte de Sedi
+ mentos mediante OpenFOAM y SedExnerFOAM: Aplicaciones Hidráulicas y Anál
+ isis Computacional
+DTSTART:20261112T182000Z
+DTEND:20261112T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14367@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14367/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14367/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8929-Propagación de Vibraciones por Impactos sobre el Terr
+ eno para la Evaluación de Tensiones en un Conducto Subterráneo
+DTSTART:20261112T191000Z
+DTEND:20261112T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14368@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14368/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14368/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8960-Modelado Elastoplástico de la Interacción Suelo-Estr
+ uctura en la Fundación de Turbinas Eólicas
+DTSTART:20261112T193000Z
+DTEND:20261112T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14373@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14373/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14373/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8813-Espectros Sísmicos de Energía de Entrada en el Campo
+  No Lineal
+DTSTART:20261112T195000Z
+DTEND:20261112T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14379@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14379/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14379/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-8736-Dos Intervenciones Didácticas en MCI I: del Cursado a
+  la Evaluación Final
+DTSTART:20261112T191000Z
+DTEND:20261112T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14369@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14369/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14369/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-8905-La Barra que Desafía la Caída Libre: Métodos Numér
+ icos en Contexto
+DTSTART:20261112T193000Z
+DTEND:20261112T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14374@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14374/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14374/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S12-ID-8784-Validación en Monte Carlo de un Filtro de Cadmio para
+  Discriminación de Neutrones en Dosimetría
+DTSTART:20261112T191000Z
+DTEND:20261112T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14370@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14370/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14370/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S12-ID-8997-Simulacion CFD de la estratificacion termica en una pi
+ leta de supresion de presion de un reactor nuclear
+DTSTART:20261112T193000Z
+DTEND:20261112T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14376@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14376/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14376/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S12-ID-8794-Modelización Multiescala de Alto Rendimiento en Compo
+ nentes Nucleares mediante Tablas de Interpolación PCYS
+DTSTART:20261112T195000Z
+DTEND:20261112T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14382@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14382/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14382/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S17-ID-9032-Mejoras en el Esquema de Integración Numérica del Mo
+ delo Monodominio en el Solver de Electrofisiología Cardíaca ELVIRA
+DTSTART:20261112T191000Z
+DTEND:20261112T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14371@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14371/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14371/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S15-ID-8780-Investigación Numérica de la Interacción Barco-Hél
+ ice-Timón en Condiciones de Aguas Poco Profundas mediante Simulaciones RA
+ NS
+DTSTART:20261112T191000Z
+DTEND:20261112T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14372@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14372/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14372/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S15-ID-8831-Modelación en Detalle Tridimensional del Flujo en un 
+ Canal Curvo de 90 Grados mediante OpenFOAM
+DTSTART:20261112T193000Z
+DTEND:20261112T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14378@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14378/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14378/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S05-ID-8912-Hybrid CFD–AI Design and Optimization of Coaxial Dro
+ plet Generators
+DTSTART:20261112T193000Z
+DTEND:20261112T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14375@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14375/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14375/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S05-ID-8767-Numerical Analysis of Instabilities in Two-Phase Flows
+  in Inclined Channels using a Mixture Model.
+DTSTART:20261112T195000Z
+DTEND:20261112T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14381@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14381/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14381/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8775-Análisis de Inestabilidad Dinámica en Rotores Apoyad
+ os en Cojinetes Hidrodinámicos Texturados
+DTSTART:20261112T193000Z
+DTEND:20261112T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14377@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14377/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14377/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8766-Análisis y Validación de un Recolector Piezoeléctri
+ co con Amortiguamiento Viscoelástico Restringente
+DTSTART:20261112T195000Z
+DTEND:20261112T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14383@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14383/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14383/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-8962-Resolución Numérica de la Teoría del Elemento de Pa
+ la para el Diseño de Turbinas Hidrocinéticas
+DTSTART:20261112T201000Z
+DTEND:20261112T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14386@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14386/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14386/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S12-ID-8995-Simulacion Computacional de un Depósito de Almacenami
+ ento de Combustible Nuclear mediante el Código de Sistemas TRACE5 Usando 
+ un Componente 3D
+DTSTART:20261112T201000Z
+DTEND:20261112T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14388@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14388/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14388/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S15-ID-8865-Resistencia al Flujo en Lechos con Formas de Fondo de 
+ Bajo Ángulo: Integración de Relevamientos Batimétricos en Grande Ríos 
+ y Modelación CFD
+DTSTART:20261112T195000Z
+DTEND:20261112T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14384@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14384/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14384/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S05-ID-8768-GPU-Based Pseudo-Symplectic Particle Tracking for Reli
+ able Macrodispersion Assessment in 3D Darcy Flows
+DTSTART:20261112T201000Z
+DTEND:20261112T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14387@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14387/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14387/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-8967-Implementación de Algoritmos Numéricos para el Anál
+ isis de Potencia en Turbinas Hidrocinéticas mediante la Teoría del Eleme
+ nto de Pala
+DTSTART:20261112T203000Z
+DTEND:20261112T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14392@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14392/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14392/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S15-ID-8871-Estudio del Proceso de Erosión en Roca del Vertedero 
+ de Piedras Moras\, Córdoba\, Argentina
+DTSTART:20261112T201000Z
+DTEND:20261112T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14390@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14390/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14390/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S05-ID-8976-OPENFOAM Implementation of the Darcy–Brinkman Equati
+ on for Electrolyte Flow in Redox Batteries
+DTSTART:20261112T203000Z
+DTEND:20261112T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14393@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14393/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14393/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8723-Generación de Energía mediante un N-Péndulo Acoplad
+ o a un Generador de Flujo Axial con Estator de PCB
+DTSTART:20261112T201000Z
+DTEND:20261112T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14389@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14389/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14389/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S12-ID-8827-Simulación CFD en Elementos Combustibles con Pérdida
+  de Concentricidad
+DTSTART:20261112T203000Z
+DTEND:20261112T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14394@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14394/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14394/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S15-ID-8825-Influencia de Simular la Superficie Libre en Flujos en
+  Curvas Abruptas
+DTSTART:20261112T203000Z
+DTEND:20261112T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14396@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14396/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14396/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8741-Análisis Experimental y Numérico de un Estanque con 
+ Movimiento Horizontal Incorporando una Mampara Flexible Usando Método de 
+ Elementos Finitos
+DTSTART:20261112T203000Z
+DTEND:20261112T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14395@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14395/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14395/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S10-ID-8762-Transiciones de Fase Mixta Superconductora Nemática y
+  Parámetros de Configuración: el Caso Kappa Alto.
+DTSTART:20261113T120000Z
+DTEND:20261113T122000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14397@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14397/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14397/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S10-ID-8755-Presentando FLEXIGAL (Flexible Galerkin): una Librerí
+ a en JULIA con Alta Abstracción Matemática para Resolución de Ecuacione
+ s Diferenciales Parciales bajo su Forma Débil
+DTSTART:20261113T122000Z
+DTEND:20261113T124000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14398@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14398/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14398/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S10-ID-8686-Existencia\, unicidad y aproximación numérica de sol
+ uciones a problemas de valores iniciales de término simple para la deriva
+ da proporcional de Caputo
+DTSTART:20261113T124000Z
+DTEND:20261113T130000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14399@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14399/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14399/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S10-ID-9019-Fundamentos Matemáticos del Método de Volúmenes Fin
+ itos para Problemas Elípticos en Dos o Tres Dimensiones
+DTSTART:20261113T130000Z
+DTEND:20261113T132000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14401@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14401/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14401/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S10-ID-8731-Aproximación Numérica de la Derivada Proporcional de
+  Caputo con Aplicaciones a Ecuaciones Diferenciales Fraccionarias
+DTSTART:20261113T132000Z
+DTEND:20261113T134000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14404@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14404/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14404/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S10-ID-8956-Solución Numérica de Ecuaciones de Evolución median
+ te Métodos sin Malla y Descomposición de Operadores
+DTSTART:20261113T134000Z
+DTEND:20261113T140000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14407@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14407/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14407/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S17-ID-8791-Una Cámara Compton con Detectores Circulares en Plano
+ s Perpendiculares
+DTSTART:20261113T124000Z
+DTEND:20261113T130000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14400@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14400/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14400/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S17-ID-9038-Elasticidad Inversa para Tejidos Blandos Anisotropos C
+ asi-Incomprimibles
+DTSTART:20261113T130000Z
+DTEND:20261113T132000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14403@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14403/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14403/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8977-Evaluación Numérica de la Demanda Flexional en Colum
+ nas de Pórticos Dúctiles de Hormigón Armado según IC103-II y ACI 318
+DTSTART:20261113T130000Z
+DTEND:20261113T132000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14402@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14402/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14402/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8873-Optimización de un Disipador de Energía de Dos Etapa
+ s Basado en Fricción para Controlar la Respuesta Estructural
+DTSTART:20261113T132000Z
+DTEND:20261113T134000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14405@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14405/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14405/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S05-ID-8781-Central Schemes Implementation for the driftFluxFoam M
+ ixture Solver
+DTSTART:20261113T132000Z
+DTEND:20261113T134000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14406@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14406/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14406/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S05-ID-8919-Neural-Network-Based Surrogates for Cost-Efficient CFD
+  Simulation of Microfluidic Droplet Generators
+DTSTART:20261113T134000Z
+DTEND:20261113T140000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14409@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14409/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14409/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S12-ID-8915-Implementación 3D de Leyes Fenomenológicas de Irradi
+ ación en Aleaciones de Circonio y Simulación del Conjunto PT–GS–CT e
+ n Reactores PHWR mediante CODE_ASTER
+DTSTART:20261113T134000Z
+DTEND:20261113T140000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14408@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14408/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14408/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S01-ID-8986-Desempeño Acústico entre HCA y un Metamaterial de Fa
+ bricación Aditiva
+DTSTART:20261110T170000Z
+DTEND:20261110T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14175@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14175/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14175/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S01-ID-8696-Representaciones Semi-Analíticas de Soluciones del Op
+ erador Generalizado de Timoshenko
+DTSTART:20261110T182000Z
+DTEND:20261110T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14197@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14197/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14197/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S07-ID-9021-Relevancia del Producto Triángulo de Helicoides Finit
+ os en el Diseño Conceptual de Mecanismos y Robots
+DTSTART:20261110T180000Z
+DTEND:20261110T182000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14194@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14194/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14194/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S01-ID-8698-Representaciones Semi-Analíticas de Soluciones del Op
+ erador Generalizado de Boussinesq en 3+1-Dimensiones
+DTSTART:20261110T191000Z
+DTEND:20261110T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14203@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14203/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14203/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S01-ID-8818-Aplicación del Método de Volúmenes Finitos para la 
+ Resolución de la Ecuación de Difusión Acústica en Recintos
+DTSTART:20261110T203000Z
+DTEND:20261110T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14225@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14225/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14225/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8694-Estudio de la Dependencia Continua con Respecto a los 
+ Términos Fuente\, de la Transferencia de Calor en Estado Estacionario en 
+ Dos Sólidos en Contacto con Salto Térmico en la Interfaz
+DTSTART:20261110T191000Z
+DTEND:20261110T193000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14207@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14207/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14207/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S08-ID-8841-Simulación Multiescala de Materiales Heterogéneos me
+ diante un Esquema Híbrido que Combina el Método de Elementos Finitos y O
+ peradores Neuronales de Fourier
+DTSTART:20261110T201000Z
+DTEND:20261110T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14222@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14222/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14222/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S02-ID-8718-Una Metodología para Verificar el Pandeo en Torres de
+  Aerogeneradores con Cargas Combinadas
+DTSTART:20261111T135000Z
+DTEND:20261111T141000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14238@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14238/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14238/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S17-ID-8947-Biomecánica de Arterias Cerebrales: Estudio Comparati
+ vo de una Descripción de Láminas de Kirchhoff-Love y un Modelo Volumétr
+ ico 3D
+DTSTART:20261111T135000Z
+DTEND:20261111T141000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14241@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14241/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14241/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S11-ID-8693-Control Óptimo de la Transferencia de Calor en Estado
+  Estacionario entre Dos Sólidos en Contacto con Flujo Continuo y Salto T
+ érmico en la Interfaz
+DTSTART:20261111T174000Z
+DTEND:20261111T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14261@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14261/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14261/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-9016-Simulación de Fluidos con Distinto Potencial de Calen
+ tamiento Global Usados en una Matriz de Microcanales para Refrigeración d
+ e Celdas Solares
+DTSTART:20261111T182000Z
+DTEND:20261111T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14275@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14275/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14275/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8715-Modelo de Predicción de la Rugosidad Promedio en el P
+ ulido Láser de Muestras de Ti-6Al-4V Fabricadas mediante Manufactura Adit
+ iva
+DTSTART:20261111T172000Z
+DTEND:20261111T174000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14259@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14259/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14259/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8720-Desarrollo de un Sistema Integrado de Bajo Costo para 
+ la Caracterización Dinámica de una Boya Experimental en Condición de Sl
+ oshing Controlado: Validación Experimental-Numérica
+DTSTART:20261111T174000Z
+DTEND:20261111T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14265@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14265/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14265/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S13-ID-8958-Comparación de Metodología para Caracterización de 
+ Porosidad en un Acople Al-Si de Suspensión Automotriz mediante Redes Neur
+ onales y Micro-Tomografía de Rayos X
+DTSTART:20261111T193000Z
+DTEND:20261111T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14284@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14284/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14284/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S13-ID-8964-Aplicación de Redes Neuronales Recurrentes al Manteni
+ miento Predictivo en una Empresa Metalúrgica de Rafaela
+DTSTART:20261111T195000Z
+DTEND:20261111T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14290@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14290/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14290/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8787-Assessment of Non-Conformal Mesh Interface Strategies 
+ in Centrifugal Pump CFD Simulations using OPENFOAM
+DTSTART:20261111T195000Z
+DTEND:20261111T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14291@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14291/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14291/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-9036-Study of Rotor-Stator Interaction Effects in Radial Tu
+ rbomachinery Using CFD
+DTSTART:20261111T201000Z
+DTEND:20261111T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14297@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14297/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14297/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03-ID-8992-Optimización de una Tobera Aerospike de Tipo Toroidal
+  Empleando Algoritmos Evolutivos
+DTSTART:20261111T203000Z
+DTEND:20261111T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14303@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14303/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14303/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S06-ID-8886-Implementation of a Softening Law for Steel Fiber Rein
+ forced Concrete
+DTSTART:20261111T201000Z
+DTEND:20261111T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14298@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14298/
+LOCATION:Sala 4 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14298/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8750-Análisis de Sensibilidad de los Parámetros Geométri
+ cos y Eléctricos de un Modelo para Propulsores de Plasma Pulsante Ablativ
+ o de Diferentes Cámaras de Aceleración
+DTSTART:20261111T193000Z
+DTEND:20261111T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14287@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14287/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14287/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8688-Recolector de Energía Piezoeléctrico con Impacto en 
+ Condiciones Reales de Vibración
+DTSTART:20261111T201000Z
+DTEND:20261111T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14299@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14299/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14299/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8810-Recolector Piezoeléctrico para Alimentación Autónom
+ a de Unidades de Sensado en Ejes Rotantes
+DTSTART:20261111T203000Z
+DTEND:20261111T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14305@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14305/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14305/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8824-Modelling and Design of Phase Change Materials Enhance
+ d Cementicious Thermal Energy Storage (TES) Materials
+DTSTART:20261111T193000Z
+DTEND:20261111T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14288@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14288/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14288/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S14-ID-8880-Calibration of an Enthalpy-Based Multiphase Thermal Mo
+ del for PCM-Saturated Bio Aggregates under DKK Testing
+DTSTART:20261111T195000Z
+DTEND:20261111T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14294@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14294/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14294/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8973-Amortiguamiento Óptimo en Estructuras Flexibles Conve
+ ncionales con Aislamiento Sísmico y Distribucion Óptima de Disipadores e
+ n Estructuras Críticas Enterradas con Aislamiento Sísmico
+DTSTART:20261111T201000Z
+DTEND:20261111T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14295@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14295/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14295/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-8742-Enseñanza de la Aproximación Polinomial en Ingenier
+ ía: Diseño y Evaluación de una Secuencia Didáctica Basada en Competenc
+ ias
+DTSTART:20261111T203000Z
+DTEND:20261111T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14302@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14302/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14302/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-8792-Evaluación del Comportamiento Sísmico de Viviendas d
+ e Adobe Tradicional y Adobe Reforzado Mediante Análisis Numérico No Line
+ al
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14308@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14308/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14308/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE-ID-8998-Modelado Atomístico y Cinético de la Adsorción de A
+ gua sobre Superficies AgI(0001) para Aplicaciones en Nucleación de Hielo
+DTSTART:20261111T205000Z
+DTEND:20261111T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14318@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14318/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14318/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S11-ID-8982-On the Optimal Design of Beam Cross-sections: Asymptot
+ ic Expansions of Sectional Parameters
+DTSTART:20261112T133000Z
+DTEND:20261112T135000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14322@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14322/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14322/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S05-ID-8926-Evaluación de Modelos Reológicos Locales y no Locale
+ s en Flujos Granulares Densos mediante OPENFOAM
+DTSTART:20261112T135000Z
+DTEND:20261112T141000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14330@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14330/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14330/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-8820-Inteligencia Artificial Generativa y Enseñanza de Mé
+ todos Numéricos en Mecánica Computacional
+DTSTART:20261112T133000Z
+DTEND:20261112T135000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14323@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14323/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14323/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-8788-Taller de Álgebra Lineal en Scilab: Una Experiencia d
+ e Innovación Didáctica en las Carreras de Ingeniería
+DTSTART:20261112T135000Z
+DTEND:20261112T141000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14329@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14329/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14329/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-8779-Integración de Software de Cálculo Numérico en la E
+ nseñanza de Álgebra Lineal en Ingeniería
+DTSTART:20261112T141000Z
+DTEND:20261112T143000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14335@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14335/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14335/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S05-ID-8800-Caracterización Hidráulica de Hormigones Drenantes a
+  Partir de Múltiples Reconstrucciones Tomográficas mediante Simulación 
+ Numérica Directa
+DTSTART:20261112T133000Z
+DTEND:20261112T135000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14324@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14324/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14324/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S05-ID-8829-Estimación de Parámetros Desconocidos en Problemas d
+ e Flujo Capilar Horizontal en Medios Porosos no Saturados mediante Redes N
+ euronales Informadas por Física con Formulación Variacional
+DTSTART:20261112T141000Z
+DTEND:20261112T143000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14336@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14336/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14336/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8685-Recolector de Energía Piezoeléctrica para la Industr
+ ia Agrícola: Caracterizacion para Su Condición Real de Operación
+DTSTART:20261112T135000Z
+DTEND:20261112T141000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14332@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14332/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14332/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S09-ID-8869-Factibilidad de Generación Undimotriz mediante un Con
+ vertidor de Péndulo Paramétrico con Dinámica Controlada
+DTSTART:20261112T141000Z
+DTEND:20261112T143000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14338@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14338/
+LOCATION:Sala 5 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14338/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8796-Optimización mediante un Modelo Sustituto Basado en l
+ a Física para Dispositivos de Protección Inercial-Plásticos en Losas de
+  Hormigón Armado Sometidas a Cargas Explosivas
+DTSTART:20261112T170000Z
+DTEND:20261112T172000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14340@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14340/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14340/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8758-Análisis de Modelos Numéricos de Viga Prefabricada c
+ on Calibración Basada en Frecuencias y Formas Modales Identificadas de Me
+ diciones Experimentales
+DTSTART:20261112T182000Z
+DTEND:20261112T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14363@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14363/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14363/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-8773-Un Curso de Métodos Numéricos en Modo Taller: Una Ex
+ periencia Formativa
+DTSTART:20261112T182000Z
+DTEND:20261112T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14364@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14364/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14364/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S15-ID-8875-Extension of an Adaptive Remeshing Methodology for Flu
+ vial-Morphological Simulations in OpenTELEMAC-MASCARET: Automatic Derefine
+ ment and Morphological Coupling
+DTSTART:20261112T174000Z
+DTEND:20261112T180000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14357@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14357/
+LOCATION:Sala 6 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14357/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-9045-Metodologías para el Análisis Basado en Desempeño d
+ e un Edificio Escolar Existente en Zona de Alta Peligrosidad Sísmica
+DTSTART:20261112T201000Z
+DTEND:20261112T203000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14385@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14385/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14385/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04-ID-8802-Una Formulación Unificada de Metaestructuras Finitas 
+ Localmente Resonantes con Resonadores Amortiguados
+DTSTART:20261112T203000Z
+DTEND:20261112T205000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14391@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14391/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14391/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16-ID-8965-Caracterización Experimental y Simulación Elástica 
+ de Probetas de PPA-CF Fabricadas por Manufactura Aditiva Sometidas a Flexi
+ ón
+DTSTART:20261112T195000Z
+DTEND:20261112T201000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14380@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14380/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14380/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plenaria
+DTSTART:20261110T143000Z
+DTEND:20261110T153000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14410@indico3.conference4me.psnc.pl
+DESCRIPTION:Dr. Guillermo Paniagua (presenta Dr. Miguel Cousirat)\n\nhttps
+ ://indico3.conference4me.psnc.pl/event/124/contributions/14410/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14410/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plenaria
+DTSTART:20261110T205000Z
+DTEND:20261110T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14411@indico3.conference4me.psnc.pl
+DESCRIPTION:Dr. Trond Kvamsdal (presenta Dr. Pablo Klerk)\n\nhttps://indic
+ o3.conference4me.psnc.pl/event/124/contributions/14411/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14411/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plenaria
+DTSTART:20261111T120000Z
+DTEND:20261111T130000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14412@indico3.conference4me.psnc.pl
+DESCRIPTION:Dr. Rainald Lohner (presenta Dr. Miguel Cousirat)\n\nhttps://i
+ ndico3.conference4me.psnc.pl/event/124/contributions/14412/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14412/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plenaria
+DTSTART:20261111T143000Z
+DTEND:20261111T153000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14413@indico3.conference4me.psnc.pl
+DESCRIPTION:Dr. Fernando Rastellini (presenta Dr. Gustavo Palazzo)\n\nhttp
+ s://indico3.conference4me.psnc.pl/event/124/contributions/14413/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14413/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S04
+DTSTART:20261111T191000Z
+DTEND:20261111T195000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14414@indico3.conference4me.psnc.pl
+DESCRIPTION:Semi-plenaria Prof. Daniel Ambrosini\n\nhttps://indico3.confer
+ ence4me.psnc.pl/event/124/contributions/14414/
+LOCATION:Sala 1 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14414/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plenaria
+DTSTART:20261111T215000Z
+DTEND:20261111T225000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14415@indico3.conference4me.psnc.pl
+DESCRIPTION:Dr. Cristian Guillermo Gebhardt (vía Zoom) (presenta Dr. Cris
+ tian Albanesi)\n\nhttps://indico3.conference4me.psnc.pl/event/124/contribu
+ tions/14415/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14415/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plenaria
+DTSTART:20261112T120000Z
+DTEND:20261112T130000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14416@indico3.conference4me.psnc.pl
+DESCRIPTION:Dr. Diego López-García (presenta Dr. Gustavo Palazzo)\n\nhtt
+ ps://indico3.conference4me.psnc.pl/event/124/contributions/14416/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14416/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plenaria
+DTSTART:20261112T143000Z
+DTEND:20261112T153000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14417@indico3.conference4me.psnc.pl
+DESCRIPTION:Dr. Juan Carlos Vielma (presenta Dr. Carlos Frau)\n\nhttps://i
+ ndico3.conference4me.psnc.pl/event/124/contributions/14417/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14417/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S03
+DTSTART:20261112T180000Z
+DTEND:20261112T184000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14418@indico3.conference4me.psnc.pl
+DESCRIPTION:Semi-plenaria Prof. Juan Cebral\n\nhttps://indico3.conference4
+ me.psnc.pl/event/124/contributions/14418/
+LOCATION:Sala 3 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14418/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plenaria
+DTSTART:20261113T143000Z
+DTEND:20261113T153000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14421@indico3.conference4me.psnc.pl
+DESCRIPTION:Dr. Gonzalo Rubio (presenta Dr. Miguel Cousirat)\n\nhttps://in
+ dico3.conference4me.psnc.pl/event/124/contributions/14421/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14421/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plenaria
+DTSTART:20261112T205000Z
+DTEND:20261112T215000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14419@indico3.conference4me.psnc.pl
+DESCRIPTION:Dr. Rubén Boroschek (presenta Dr. Miguel Tornello)\n\nhttps:/
+ /indico3.conference4me.psnc.pl/event/124/contributions/14419/
+LOCATION:Mendoza\, Argentina
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14419/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S16 – Mesa Redonda
+DTSTART:20261113T122000Z
+DTEND:20261113T130000Z
+DTSTAMP:20261106T193300Z
+UID:indico-contribution-14420@indico3.conference4me.psnc.pl
+DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
+ 14420/
+LOCATION:Sala 2 (Mendoza\, Argentina)
+URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14420/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Acreditación
+DTSTART:20261110T110000Z
+DTEND:20261110T133000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17845@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17845
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Acto de apertura
+DTSTART:20261110T133000Z
+DTEND:20261110T140000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17846@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17846
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break
+DTSTART:20261110T140000Z
+DTEND:20261110T143000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17847@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17847
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Almuerzo libre
+DTSTART:20261110T153000Z
+DTEND:20261110T170000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17849@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break
+DTSTART:20261110T184000Z
+DTEND:20261110T191000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17850@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17850
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cocktail de bienvenida
+DTSTART:20261110T215000Z
+DTEND:20261111T003000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17852@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17852
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Acreditación
+DTSTART:20261111T110000Z
+DTEND:20261111T120000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17853@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break
+DTSTART:20261111T130000Z
+DTEND:20261111T133000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17855@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17855
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Almuerzo libre
+DTSTART:20261111T153000Z
+DTEND:20261111T170000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17857@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17857
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break
+DTSTART:20261111T184000Z
+DTEND:20261111T191000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17858@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17858
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Acreditación
+DTSTART:20261112T110000Z
+DTEND:20261112T120000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17861@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17861
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break
+DTSTART:20261112T130000Z
+DTEND:20261112T133000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17863@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17863
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Almuerzo libre
+DTSTART:20261112T153000Z
+DTEND:20261112T170000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17865@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17865
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break
+DTSTART:20261112T184000Z
+DTEND:20261112T191000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17867@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17867
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cena de camaradería
+DTSTART:20261113T000000Z
+DTEND:20261113T025900Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17869@indico3.conference4me.psnc.pl
+DESCRIPTION:(21:00 a 23:59)
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17869
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Acreditación
+DTSTART:20261113T110000Z
+DTEND:20261113T120000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17870@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17870
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coffee Break
+DTSTART:20261113T140000Z
+DTEND:20261113T143000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17872@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17872
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Acto de cierre
+DTSTART:20261113T153000Z
+DTEND:20261113T160000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17874@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17874
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salida opcional a presa Potrerillos
+DTSTART:20261113T160000Z
+DTEND:20261113T200000Z
+DTSTAMP:20261106T194640Z
+UID:indico-event-124-break-entry-17875@indico3.conference4me.psnc.pl
+URL:https://indico3.conference4me.psnc.pl/event/124/
+X-INDICO-EVENT-ID:124
+X-INDICO-TIMETABLE-ENTRY-ID:17875
+END:VEVENT
+END:VCALENDAR
