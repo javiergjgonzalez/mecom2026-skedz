@@ -110,12 +110,15 @@ SUMMARY:S07-ID-8842-Diseño de Mecanismos Biestables para Celdas Táctiles
   Braille
 DTSTART:20261110T170000Z
 DTEND:20261110T172000Z
-DTSTAMP:20261106T193300Z
+DTSTAMP:20261110T145855Z
 UID:indico-contribution-14177@indico3.conference4me.psnc.pl
+SEQUENCE:1
 DESCRIPTION:Autores: Martín A. Pucheta\, Guillermo O. Forte\, Alejandro G
- . Gallardo\, Fredy Restrepo Blandon\n\nAbstract (OCS): https://amcaonline.
- org.ar/ocs/index.php/mecom2026/mecom2026/paper/view/8842\n\nhttps://indico
- 3.conference4me.psnc.pl/event/124/contributions/14177/
+ . Gallardo\, Fredy Restrepo Blandon\, Agustín Arnedo\, Cristian Lungu\, F
+ acundo Olmedo\n\nAbstract (OCS): https://amcaonline.org.ar/ocs/index.php/m
+ ecom2026/mecom2026/paper/view/8842\n\nhttps://indico3.conference4me.psnc.p
+ l/event/124/contributions/14177/
+LAST-MODIFIED:20261110T145855Z
 LOCATION:Sala 4 (Mendoza\, Argentina)
 URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14177/
 END:VEVENT
@@ -1309,14 +1312,16 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S13-ID-8743-Modelado y Simulación de la Letalidad Térmica en Ali
  mentos Enlatados mediante Integración Numérica y Aproximación Funcional
-DTSTART:20261111T191000Z
-DTEND:20261111T193000Z
-DTSTAMP:20261106T193300Z
+DTSTART:20261111T195000Z
+DTEND:20261111T201000Z
+DTSTAMP:20261110T143557Z
 UID:indico-contribution-14279@indico3.conference4me.psnc.pl
+SEQUENCE:1
 DESCRIPTION:Autores: Gustavo Alejandro Salcedo\, Lucrecia Lucía Chaillou
  \n\nAbstract (OCS): https://amcaonline.org.ar/ocs/index.php/mecom2026/meco
  m2026/paper/view/8743\n\nhttps://indico3.conference4me.psnc.pl/event/124/c
  ontributions/14279/
+LAST-MODIFIED:20261110T143557Z
 LOCATION:Sala 2 (Mendoza\, Argentina)
 URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14279/
 END:VEVENT
@@ -1362,19 +1367,6 @@ DESCRIPTION:Autores: Patricio G. Canciani\, William I. Machaca Abregu\, Fe
  l/event/124/contributions/14285/
 LOCATION:Sala 3 (Mendoza\, Argentina)
 URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14285/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S06-ID-8795-Método del Punto Material Acoplado con Elementos Fini
- tos Aplicado al Análisis de Estados Planos con Grandes Deformaciones
-DTSTART:20261111T193000Z
-DTEND:20261111T195000Z
-DTSTAMP:20261106T193300Z
-UID:indico-contribution-14286@indico3.conference4me.psnc.pl
-DESCRIPTION:Autores: Carlos Federico Estrada\n\nAbstract (OCS): https://am
- caonline.org.ar/ocs/index.php/mecom2026/mecom2026/paper/view/8795\n\nhttps
- ://indico3.conference4me.psnc.pl/event/124/contributions/14286/
-LOCATION:Sala 4 (Mendoza\, Argentina)
-URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14286/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S09-ID-8749-Aplicación de Algoritmos Genéticos para la Optimizac
@@ -1706,14 +1698,16 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S06-ID-8848-Aplicación de la Mecánica de Daño Continuo al Model
  ado Constitutivo del Mampuesto de Adobe
-DTSTART:20261112T133000Z
-DTEND:20261112T135000Z
-DTSTAMP:20261106T193300Z
+DTSTART:20261111T193000Z
+DTEND:20261111T195000Z
+DTSTAMP:20261110T143557Z
 UID:indico-contribution-14325@indico3.conference4me.psnc.pl
+SEQUENCE:1
 DESCRIPTION:Autores: Gerardo Andrés González del Solar\, Francisco Calde
  rón\, Emilce Giolo\, Carolina Domizio\n\nAbstract (OCS): https://amcaonli
  ne.org.ar/ocs/index.php/mecom2026/mecom2026/paper/view/8848\n\nhttps://ind
  ico3.conference4me.psnc.pl/event/124/contributions/14325/
+LAST-MODIFIED:20261110T143557Z
 LOCATION:Sala 4 (Mendoza\, Argentina)
 URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14325/
 END:VEVENT
@@ -2125,20 +2119,6 @@ DESCRIPTION:Autores: Lucía Morandi\, Laura Battaglia\, Lucas G. Dominguez
  ce4me.psnc.pl/event/124/contributions/14362/
 LOCATION:Sala 6 (Mendoza\, Argentina)
 URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14362/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S12-ID-9010-Análisis de un Anillo Espaciador de un Canal Combusti
- ble de Reactor Tipo CANDU
-DTSTART:20261112T182000Z
-DTEND:20261112T184000Z
-DTSTAMP:20261106T193300Z
-UID:indico-contribution-14365@indico3.conference4me.psnc.pl
-DESCRIPTION:Autores: Bruno A. Toscano\, Juan E. Ramos Nervi\, Brian Desía
- \, Ezequiel Fernandez\n\nAbstract (OCS): https://amcaonline.org.ar/ocs/ind
- ex.php/mecom2026/mecom2026/paper/view/9010\n\nhttps://indico3.conference4m
- e.psnc.pl/event/124/contributions/14365/
-LOCATION:Sala 4 (Mendoza\, Argentina)
-URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14365/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S09-ID-8704-Desempeño de Sistemas de Gestión Térmica Basados en
@@ -2660,27 +2640,31 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S04-ID-8977-Evaluación Numérica de la Demanda Flexional en Colum
  nas de Pórticos Dúctiles de Hormigón Armado según IC103-II y ACI 318
-DTSTART:20261113T130000Z
-DTEND:20261113T132000Z
-DTSTAMP:20261106T193300Z
+DTSTART:20261113T132000Z
+DTEND:20261113T134000Z
+DTSTAMP:20261110T143557Z
 UID:indico-contribution-14402@indico3.conference4me.psnc.pl
+SEQUENCE:1
 DESCRIPTION:Autores: Cristian Otto Bay\, Gustavo A. Palazzo\, Ricardo D. B
  assotti\n\nAbstract (OCS): https://amcaonline.org.ar/ocs/index.php/mecom20
  26/mecom2026/paper/view/8977\n\nhttps://indico3.conference4me.psnc.pl/even
  t/124/contributions/14402/
+LAST-MODIFIED:20261110T143557Z
 LOCATION:Sala 2 (Mendoza\, Argentina)
 URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14402/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S04-ID-8873-Optimización de un Disipador de Energía de Dos Etapa
  s Basado en Fricción para Controlar la Respuesta Estructural
-DTSTART:20261113T132000Z
-DTEND:20261113T134000Z
-DTSTAMP:20261106T193300Z
+DTSTART:20261113T134000Z
+DTEND:20261113T140000Z
+DTSTAMP:20261110T143557Z
 UID:indico-contribution-14405@indico3.conference4me.psnc.pl
+SEQUENCE:1
 DESCRIPTION:Autores: Raul Oscar Curadelli\n\nAbstract (OCS): https://amcao
  nline.org.ar/ocs/index.php/mecom2026/mecom2026/paper/view/8873\n\nhttps://
  indico3.conference4me.psnc.pl/event/124/contributions/14405/
+LAST-MODIFIED:20261110T143557Z
 LOCATION:Sala 2 (Mendoza\, Argentina)
 URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14405/
 END:VEVENT
@@ -2716,31 +2700,18 @@ BEGIN:VEVENT
 SUMMARY:S12-ID-8915-Implementación 3D de Leyes Fenomenológicas de Irradi
  ación en Aleaciones de Circonio y Simulación del Conjunto PT–GS–CT e
  n Reactores PHWR mediante CODE_ASTER
-DTSTART:20261113T134000Z
-DTEND:20261113T140000Z
-DTSTAMP:20261106T193300Z
+DTSTART:20261112T182000Z
+DTEND:20261112T184000Z
+DTSTAMP:20261110T143557Z
 UID:indico-contribution-14408@indico3.conference4me.psnc.pl
+SEQUENCE:1
 DESCRIPTION:Autores: Martin S. Armoa\, Fabrizzio E. Aguzzi\, Cesar I. Pair
  etti\, Cesar M. Venier\, Alejandro E. Albanesi\n\nAbstract (OCS): https://
  amcaonline.org.ar/ocs/index.php/mecom2026/mecom2026/paper/view/8915\n\nhtt
  ps://indico3.conference4me.psnc.pl/event/124/contributions/14408/
-LOCATION:Sala 2 (Mendoza\, Argentina)
+LAST-MODIFIED:20261110T143557Z
+LOCATION:Sala 4 (Mendoza\, Argentina)
 URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14408/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S01-ID-8986-Desempeño Acústico entre HCA y un Metamaterial de Fa
- bricación Aditiva
-DTSTART:20261110T170000Z
-DTEND:20261110T172000Z
-DTSTAMP:20261106T193300Z
-UID:indico-contribution-14175@indico3.conference4me.psnc.pl
-DESCRIPTION:Autores: Júlia Cordeiro Vieira\, Pablo Gianoli\, Yamilé Lara
- \, Raquel Diniz Oliveira\, Elizabeth González\, Ana Abreu\n\nAbstract (OC
- S): https://amcaonline.org.ar/ocs/index.php/mecom2026/mecom2026/paper/view
- /8986\n\nhttps://indico3.conference4me.psnc.pl/event/124/contributions/141
- 75/
-LOCATION:Sala 1 (Mendoza\, Argentina)
-URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14175/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S01-ID-8696-Representaciones Semi-Analíticas de Soluciones del Op
@@ -2933,14 +2904,16 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S13-ID-8964-Aplicación de Redes Neuronales Recurrentes al Manteni
  miento Predictivo en una Empresa Metalúrgica de Rafaela
-DTSTART:20261111T195000Z
-DTEND:20261111T201000Z
-DTSTAMP:20261106T193300Z
+DTSTART:20261111T191000Z
+DTEND:20261111T193000Z
+DTSTAMP:20261110T143557Z
 UID:indico-contribution-14290@indico3.conference4me.psnc.pl
+SEQUENCE:1
 DESCRIPTION:Autores: Javier Fernando Fornari\, Eduardo Monier\, Fabio Odet
  to\, Sheila Favole\n\nAbstract (OCS): https://amcaonline.org.ar/ocs/index.
  php/mecom2026/mecom2026/paper/view/8964\n\nhttps://indico3.conference4me.p
  snc.pl/event/124/contributions/14290/
+LAST-MODIFIED:20261110T143557Z
 LOCATION:Sala 2 (Mendoza\, Argentina)
 URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14290/
 END:VEVENT
@@ -3483,12 +3456,14 @@ URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14419/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S16 – Mesa Redonda
-DTSTART:20261113T122000Z
-DTEND:20261113T130000Z
-DTSTAMP:20261106T193300Z
+DTSTART:20261113T124000Z
+DTEND:20261113T132000Z
+DTSTAMP:20261110T143557Z
 UID:indico-contribution-14420@indico3.conference4me.psnc.pl
+SEQUENCE:1
 DESCRIPTION:https://indico3.conference4me.psnc.pl/event/124/contributions/
  14420/
+LAST-MODIFIED:20261110T143557Z
 LOCATION:Sala 2 (Mendoza\, Argentina)
 URL:https://indico3.conference4me.psnc.pl/event/124/contributions/14420/
 END:VEVENT
@@ -3674,11 +3649,13 @@ X-INDICO-EVENT-ID:124
 X-INDICO-TIMETABLE-ENTRY-ID:17874
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salida opcional a presa Potrerillos
+SUMMARY:Salida opcional a presa Potrerillos (a confirmar)
 DTSTART:20261113T160000Z
 DTEND:20261113T200000Z
-DTSTAMP:20261106T194640Z
+DTSTAMP:20261110T143557Z
 UID:indico-event-124-break-entry-17875@indico3.conference4me.psnc.pl
+SEQUENCE:1
+LAST-MODIFIED:20261110T143557Z
 URL:https://indico3.conference4me.psnc.pl/event/124/
 X-INDICO-EVENT-ID:124
 X-INDICO-TIMETABLE-ENTRY-ID:17875
